@@ -2,8 +2,6 @@
 
 This is the website for a local cafe that I like to go to.
 
-It didn't have one, and I don't like going to a facebook page for their information.
+They didn't have one, so here we go. 
 
-So here we go. Simple one page layout with location, menu, some pictures, and a short blurb.
-
-Haven't got any of those things yet but they comin'
+Simple one page layout with location, menu, some pictures, opening hours, and a short blurb.
